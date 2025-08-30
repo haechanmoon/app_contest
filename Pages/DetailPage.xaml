@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:ShinhanLostAndFound.Models"
+             x:Class="ShinhanLostAndFound.Pages.DetailPage"
+             x:DataType="models:LostItem"
+             Title="분실물 상세 정보">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="10" Padding="20">
+            <Frame HeightRequest="300" Padding="0" CornerRadius="10" BorderColor="{StaticResource Gray100}">
+                <Image Source="{Binding ImageUrl}" Aspect="AspectFill" />
+            </Frame>
+            <Label Text="{Binding Name}" FontSize="24" FontAttributes="Bold" Margin="0,10,0,0"/>
+            <Grid RowDefinitions="Auto, Auto, Auto"
+                  ColumnDefinitions="Auto, *"
+                  RowSpacing="10"
+                  Margin="0,10,0,0">
+                <Label Grid.Row="0" Grid.Column="0" Text="습득 장소:" FontAttributes="Bold"/>
+                <Label Grid.Row="0" Grid.Column="1" Text="{Binding Location}" Margin="10,0,0,0"/>
+                <Label Grid.Row="1" Grid.Column="0" Text="등록 날짜:" FontAttributes="Bold"/>
+                <Label Grid.Row="1" Grid.Column="1" Text="{Binding Date}" Margin="10,0,0,0"/>
+                <Label Grid.Row="2" Grid.Column="0" Text="연락처:" FontAttributes="Bold"/>
+                <Label Grid.Row="2" Grid.Column="1" Text="{Binding Contact}" Margin="10,0,0,0"/>
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

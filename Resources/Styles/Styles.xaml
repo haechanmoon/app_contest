@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <Color x:Key="PrimaryColor">#0055A7</Color>
+    <Color x:Key="SecondaryColor">#F0F0F0</Color>
+    <Color x:Key="WhiteColor">#FFFFFF</Color>
+    <Color x:Key="BlackColor">#000000</Color>
+    <Color x:Key="Gray100">#EBF0F5</Color>
+    <Color x:Key="Gray300">#A5A5A5</Color>
+    <Color x:Key="Gray900">#212121</Color>
+    <Style TargetType="ContentPage" ApplyToDerivedTypes="True">
+        <Setter Property="BackgroundColor" Value="{StaticResource WhiteColor}" />
+        <Setter Property="Padding" Value="0"/>
+        <Setter Property="Title" Value="신한 분실물 센터"/>
+    </Style>
+
+    <Style TargetType="Frame">
+        <Setter Property="Padding" Value="10"/>
+        <Setter Property="Margin" Value="5"/>
+        <Setter Property="CornerRadius" Value="10"/>
+        <Setter Property="BorderColor" Value="{StaticResource Gray100}"/>
+        <Setter Property="HasShadow" Value="False"/>
+        <Setter Property="BackgroundColor" Value="{StaticResource WhiteColor}"/>
+    </Style>
+
+    <Style TargetType="Button">
+        <Setter Property="BackgroundColor" Value="{StaticResource PrimaryColor}"/>
+        <Setter Property="TextColor" Value="{StaticResource WhiteColor}"/>
+        <Setter Property="FontAttributes" Value="Bold"/>
+        <Setter Property="CornerRadius" Value="25"/>
+        <Setter Property="HeightRequest" Value="50"/>
+        <Setter Property="Margin" Value="20"/>
+    </Style>
+
+    <Style TargetType="Label">
+        <Setter Property="TextColor" Value="{StaticResource Gray900}"/>
+        <Setter Property="FontSize" Value="14"/>
+    </Style>
+
+    <Style TargetType="Entry">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="TextColor" Value="{StaticResource Gray900}"/>
+        <Setter Property="PlaceholderColor" Value="{StaticResource Gray300}"/>
+        <Setter Property="HeightRequest" Value="48"/>
+        <Setter Property="BackgroundColor" Value="{StaticResource Gray100}"/>
+        <Setter Property="VerticalTextAlignment" Value="Center"/>
+    </Style>
+
+    <Style TargetType="Editor">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="TextColor" Value="{StaticResource Gray900}"/>
+        <Setter Property="PlaceholderColor" Value="{StaticResource Gray300}"/>
+        <Setter Property="HeightRequest" Value="100"/>
+        <Setter Property="AutoSize" Value="TextChanges"/>
+        <Setter Property="BackgroundColor" Value="{StaticResource Gray100}"/>
+    </Style>
+
+</ResourceDictionary>

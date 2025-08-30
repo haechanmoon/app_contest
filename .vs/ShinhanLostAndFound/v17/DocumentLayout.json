@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\pages\\addlostitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:pages\\addlostitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\pages\\addlostitempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:pages\\addlostitempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\pages\\myitemspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:pages\\myitemspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\pages\\myitemspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:pages\\myitemspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\shinhanlostandfound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:shinhanlostandfound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\resources\\appicon\\appicon_custom.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:resources\\appicon\\appicon_custom.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\models\\lostitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:models\\lostitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\models\\myitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:models\\myitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Resource.Designer.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\pages\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:pages\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|c:\\users\\moon\\source\\repos\\shinhanlostandfound\\pages\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9435D046-44A8-41B1-9EDF-6C0CC5A4408C}|ShinhanLostAndFound.csproj|solutionrelative:pages\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-30T08:16:58.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T08:03:56.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\secrets.json",
+              "RelativeDocumentMoniker": "secrets.json",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\secrets.json",
+              "RelativeToolTip": "secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T07:49:30.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyItemsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\MyItemsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MyItemsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\MyItemsPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MyItemsPage.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:45:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appicon_custom.png",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Resources\\AppIcon\\appicon_custom.png",
+              "RelativeDocumentMoniker": "Resources\\AppIcon\\appicon_custom.png",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Resources\\AppIcon\\appicon_custom.png",
+              "RelativeToolTip": "Resources\\AppIcon\\appicon_custom.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-27T08:56:37.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddLostItemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\AddLostItemPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddLostItemPage.xaml",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\AddLostItemPage.xaml",
+              "RelativeToolTip": "Pages\\AddLostItemPage.xaml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-24T18:11:50.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T06:35:08.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:27:15.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddLostItemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\AddLostItemPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddLostItemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\AddLostItemPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AddLostItemPage.xaml.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAowKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:58:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShinhanLostAndFound.csproj",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\ShinhanLostAndFound.csproj",
+              "RelativeDocumentMoniker": "ShinhanLostAndFound.csproj",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\ShinhanLostAndFound.csproj",
+              "RelativeToolTip": "ShinhanLostAndFound.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T12:18:22.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyItemsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\MyItemsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MyItemsPage.xaml",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\MyItemsPage.xaml",
+              "RelativeToolTip": "Pages\\MyItemsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T11:44:56.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-27T08:41:16.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-27T08:04:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:10:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T08:10:06.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-27T07:18:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LostItem.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Models\\LostItem.cs",
+              "RelativeDocumentMoniker": "Models\\LostItem.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Models\\LostItem.cs",
+              "RelativeToolTip": "Models\\LostItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:34:00.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:54:39.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:18:05.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyItem.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Models\\MyItem.cs",
+              "RelativeDocumentMoniker": "Models\\MyItem.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Models\\MyItem.cs",
+              "RelativeToolTip": "Models\\MyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:12:56.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Xamarin.Android.Resource.Designer.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Resource.Designer.targets",
+              "ViewState": "AgIAAC4AAAAAAAAAAAD4v00AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-25T08:37:32.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\DetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\DetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\DetailPage.xaml.cs",
+              "RelativeToolTip": "Pages\\DetailPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:39:12.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\DetailPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\DetailPage.xaml",
+              "ToolTip": "C:\\Users\\moon\\source\\repos\\ShinhanLostAndFound\\Pages\\DetailPage.xaml",
+              "RelativeToolTip": "Pages\\DetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T07:38:59.134Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

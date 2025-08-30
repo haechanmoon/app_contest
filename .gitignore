@@ -1,0 +1,39 @@
+﻿# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# OUR CUSTOM SECRET FILE
+secrets.json
+
+# Visual Studio code coverage results
+*.coverage
+*.coverage.xml
+
+# NUnit
+*.nunit
+*.nuget.props
+*.nuget.targets
+
+# Mac
+*.DS_Store
+
+# Others
+*.docsettings

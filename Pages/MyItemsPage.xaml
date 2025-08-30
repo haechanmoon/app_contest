@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:ShinhanLostAndFound.Models"
+             x:Class="ShinhanLostAndFound.Pages.MyItemsPage"
+             Title="내 소지품">
+    <Grid RowDefinitions="Auto, *">
+
+        <VerticalStackLayout Grid.Row="0" Spacing="10" Padding="20">
+            <Label Text="내 소지품 관리" FontSize="18" FontAttributes="Bold"/>
+            <Frame HeightRequest="150" Padding="5" CornerRadius="10" BorderColor="{StaticResource Gray100}">
+                <Image x:Name="ItemImage" Aspect="AspectFit" Source="dotnet_bot.png"/>
+            </Frame>
+            <Button Text="사진 선택" Clicked="OnSelectImageClicked" Margin="0"/>
+            <Entry x:Name="ItemEntry" Placeholder="소지품 이름 (예: 검은색 에어팟 프로)" />
+            <Button Text="이 소지품 추가하기" Clicked="OnAddItemClicked" Margin="0"/>
+        </VerticalStackLayout>
+
+        <Grid Grid.Row="1">
+            <CollectionView x:Name="ItemsCollectionView"
+                            ItemsSource="{Binding MyItems}"
+                            Margin="10">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="models:MyItem">
+                        <Frame>
+                            <Grid ColumnDefinitions="60, *, Auto">
+                                <Image Source="{Binding ImagePath}" Aspect="AspectFill" HeightRequest="50" WidthRequest="50"/>
+                                <Label Grid.Column="1" Text="{Binding Name}" VerticalOptions="Center" Margin="10,0"/>
+                                <Button Grid.Column="2" Text="삭제" WidthRequest="70" HeightRequest="40" CornerRadius="10"
+                                        CommandParameter="{Binding .}"
+                                        Clicked="OnDeleteItemClicked"/>
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <VerticalStackLayout x:Name="EmptyView"
+                                 IsVisible="False"
+                                 VerticalOptions="Center"
+                                 HorizontalOptions="Center"
+                                 Spacing="10">
+                <Image Source="dotnet_bot.png" HeightRequest="80"/>
+                <Label Text="자주 잃어버리는 소지품을 등록해보세요!" FontAttributes="Bold"/>
+                <Label Text="'무선이어폰', '지갑', '가방' 등을 등록해두면" HorizontalTextAlignment="Center"/>
+                <Label Text="'분예주' 알림이 더 똑똑해집니다." HorizontalTextAlignment="Center"/>
+            </VerticalStackLayout>
+        </Grid>
+
+        <Frame Grid.Row="2" Margin="20,0,20,20" Padding="20" BorderColor="{StaticResource Gray100}">
+            <VerticalStackLayout Spacing="10">
+                <Label Text="챙김이 알림 🔔" FontSize="18" FontAttributes="Bold"/>
+                <Label Text="매일 정해진 시간에 소지품 확인 알림을 보내드릴게요."/>
+                <TimePicker x:Name="NotificationTimePicker" Time="18:00" TextColor="{StaticResource PrimaryColor}"/>
+                <Button Text="알림 시간 저장" Clicked="OnSaveTimeClicked" Margin="0"/>
+            </VerticalStackLayout>
+        </Frame>
+    </Grid>
+</ContentPage>

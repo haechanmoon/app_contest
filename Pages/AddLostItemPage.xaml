@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShinhanLostAndFound.Pages.AddLostItemPage"
+             Title="분실물 등록하기">
+
+    <Grid>
+        <ScrollView>
+            <VerticalStackLayout Spacing="15" Padding="20">
+                <Label Text="등록 종류" FontAttributes="Bold"/>
+                <Grid ColumnDefinitions="*,*" ColumnSpacing="10">
+                    <RadioButton x:Name="LostRadioButton" Content="😭 분실했어요" IsChecked="True" Grid.Column="0" CheckedChanged="OnStatusChanged"/>
+                    <RadioButton x:Name="FoundRadioButton" Content="😊 습득했어요" Grid.Column="1" CheckedChanged="OnStatusChanged"/>
+                </Grid>
+
+                <Frame HeightRequest="200" BorderColor="{StaticResource Gray100}">
+                    <Image x:Name="ItemImage" Aspect="AspectFit" Source="dotnet_bot.png"/>
+                </Frame>
+
+                <Grid ColumnDefinitions="*,*" ColumnSpacing="10">
+                    <Button x:Name="LoadMyItemButton" Grid.Column="0" Text="내 소지품에서 불러오기" Clicked="OnLoadFromMyItemsClicked" Margin="0"/>
+                    <Button Grid.Column="1" Text="갤러리에서 사진 선택" Clicked="OnSelectImageClicked" Margin="0"/>
+                </Grid>
+
+                <Label Text="분실물 이름"/>
+                <Entry x:Name="NameEntry" Placeholder="예: 검은색 에어팟 케이스"/>
+                <Label x:Name="LocationLabel" Text="습득 장소"/>
+                <Editor x:Name="LocationEntry" 
+                    Placeholder="장소들을 자유롭게 적어주세요. (예: 중앙도서관 3층, 학생회관 1층 카페)"
+                    HeightRequest="100"
+                    AutoSize="TextChanges"/>
+                <Label Text="연락처"/>
+                <Entry x:Name="ContactEntry" Placeholder="예: 전화번호 또는 학과/학번"/>
+                <Button x:Name="SubmitButton" Text="등록하기" Clicked="SubmitButton_Clicked"/>
+            </VerticalStackLayout>
+        </ScrollView>
+        <ActivityIndicator x:Name="LoadingIndicator"
+                           IsRunning="False" 
+                           IsVisible="False"
+                           Color="{StaticResource PrimaryColor}"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"/>
+    </Grid>
+</ContentPage>
