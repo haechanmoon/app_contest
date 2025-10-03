@@ -1,3 +1,4 @@
+# 신한대학교 SW중심대학 앱개발 경진대회 장려상
 # 챙김이 (Chaenggimi) - 분실물 예방 및 관리 앱
 
 [![.NET MAUI](https://img.shields.io/badge/.NET-MAUI-purple.svg)](https://dotnet.microsoft.com/apps/maui)
